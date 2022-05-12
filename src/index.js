@@ -18,3 +18,4 @@ ReactDOM.render(
 //It should display an unordered list (bullet points).
 //It should contain 3 list elements.
 //hello
+//ReactDOM.render(WHAT TO SHOW,WHERE TO SHOW)
